@@ -115,20 +115,18 @@ This analysis helps stakeholders:
 
 ---
 
-## 📂 Project Structure  
-
 Customer‑Churn‑Analysis/
 │
-├── Dataset/
-│   └── Churn_Unclean_Project.xlsx
-├── Python/
-│   └── Data_Cleaning.ipynb
-├── SQL/
-│   └── Churn_Analysis.sql
-├── PowerBI/
-│   └── Cleaned_Data/
-│       └── Clean_Churn_Data.xlsx
-
+├── 📂 Dataset/
+│   └── Churn_Unclean_Project.xlsx # Raw Excel dataset
+│
+├── 🐍 Python/
+│   └── Data_Cleaning.ipynb # Python notebook for data cleaning & preprocessing
+│
+├── 💾 SQL/
+│   └── Churn_Analysis.sql # SQL queries for churn analysis
+│
+├── 📊 PowerBI/
 
 ---
 
