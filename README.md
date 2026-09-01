@@ -1,22 +1,25 @@
-# 🌟 Customer Churn Analysis - Data Analytics Project  
+# 🌟 Customer Churn Analysis — End‑to‑End Data Analytics Project  
 
 An **interactive and comprehensive Data Analytics project** that transforms raw customer data into actionable business insights using **Excel, Python, Pandas, NumPy, MySQL, SQL, and Power BI**.  
 
 ---
 
-## ❗ Problem Statement  
+## ❗ Business Problem Statement  
 
-Customer churn is one of the most pressing challenges faced by subscription‑based businesses.  
-When customers discontinue their services, it directly impacts revenue, growth, and long‑term sustainability.  
+Subscription‑based businesses face a critical challenge: **customer churn**.  
+When customers discontinue their services, it directly impacts **revenue, growth, and long‑term sustainability**.  
 
-Despite having large volumes of customer data, many organizations struggle to identify **why customers leave**, **which segments are at risk**, and **how to retain them effectively**.  
+Although companies collect large volumes of customer data, they often struggle to answer key business questions:  
+- Why are customers leaving?  
+- Which customer segments are most at risk?  
+- How can retention strategies be improved?  
 
-This project aims to solve that problem by:  
-- Transforming raw, unstructured customer data into a clean, analysis‑ready format.  
-- Uncovering patterns and factors that influence churn behavior.  
-- Providing actionable insights through SQL analysis and interactive Power BI dashboards.  
+This project addresses these challenges by:  
+- Cleaning and structuring raw customer data for analysis.  
+- Identifying churn drivers such as tenure, contract type, payment method, and demographics.  
+- Delivering actionable insights through SQL queries and interactive Power BI dashboards.  
 
-💡 **Goal:** Help businesses make data‑driven decisions to reduce churn, improve customer retention, and maximize lifetime value.  
+💡 **Business Goal:** Enable decision‑makers to reduce churn, improve retention, and maximize customer lifetime value through data‑driven strategies.  
 
 ---
 
@@ -102,7 +105,7 @@ An interactive dashboard visualizing:
 
 ---
 
-## 💡 Business Insights  
+## 💡 Business Insights  
 
 This analysis helps stakeholders:  
 - Identify high‑churn segments  
@@ -144,5 +147,4 @@ This analysis helps stakeholders:
 
 This project showcases a **real‑world data‑analytics workflow**, integrating multiple tools to deliver actionable insights.  
 It demonstrates practical expertise in **Python, SQL, MySQL, Excel, and Power BI**, focusing on a real business challenge — **understanding and reducing customer churn**.  
- 
 
