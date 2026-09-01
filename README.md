@@ -1,4 +1,4 @@
-# 🌟 Customer Churn Analysis Project
+# 🌟 Customer Churn Analysis —  Analytics Project  
 
 An **interactive and comprehensive Data Analytics project** that transforms raw customer data into actionable business insights using **Excel, Python, Pandas, NumPy, MySQL, SQL, and Power BI**.  
 
@@ -114,6 +114,8 @@ This analysis helps stakeholders:
 | Power BI | Dashboard & visualization |
 
 
+---
+
 ## 🧠 Skills Demonstrated  
 
 - Data Cleaning & Preprocessing  
@@ -129,3 +131,5 @@ This analysis helps stakeholders:
 
 This project showcases a **real‑world data‑analytics workflow**, integrating multiple tools to deliver actionable insights.  
 It demonstrates practical expertise in **Python, SQL, MySQL, Excel, and Power BI**, focusing on a real business challenge — **understanding and reducing customer churn**.  
+
+
