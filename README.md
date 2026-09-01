@@ -1,4 +1,4 @@
-# 🌟 Customer Churn Analysis — End‑to‑End Data Analytics Project  
+# 🌟 Customer Churn Analysis Project
 
 An **interactive and comprehensive Data Analytics project** that transforms raw customer data into actionable business insights using **Excel, Python, Pandas, NumPy, MySQL, SQL, and Power BI**.  
 
