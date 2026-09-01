@@ -18,6 +18,19 @@ The workflow follows a complete **end‑to‑end analytics pipeline** — from r
 🔹 SQL Analysis  
 🔹 Power BI Visualization  
 
+## ❗ Problem Statement  
+
+Customer churn is one of the most pressing challenges faced by subscription‑based businesses.  
+When customers discontinue their services, it directly impacts revenue, growth, and long‑term sustainability.  
+
+Despite having large volumes of customer data, many organizations struggle to identify **why customers leave**, **which segments are at risk**, and **how to retain them effectively**.  
+
+This project aims to solve that problem by:  
+- Transforming raw, unstructured customer data into a clean, analysis‑ready format.  
+- Uncovering patterns and factors that influence churn behavior.  
+- Providing actionable insights through SQL analysis and interactive Power BI dashboards.  
+
+
 💡 **Objective:** Convert messy, unstructured customer data into a clean, analysis‑ready dataset and generate insights that drive smarter business decisions.  
 
 ---
