@@ -1,4 +1,4 @@
-# Customer Churn Analysis & Business Intelligence Dashboard
+# Customer Churn Analysis 
 
 Customer retention is one of the most critical challenges for subscription-based businesses. This project presents a comprehensive end-to-end customer churn analytics solution designed to uncover the key factors influencing customer attrition and provide data-driven insights for improving customer retention strategies.
 
