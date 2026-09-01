@@ -1,22 +1,8 @@
-# 🌟 Customer Churn Analysis —  Analytics Project  
+# 🌟 Customer Churn Analysis - Data Analytics Project  
 
 An **interactive and comprehensive Data Analytics project** that transforms raw customer data into actionable business insights using **Excel, Python, Pandas, NumPy, MySQL, SQL, and Power BI**.  
 
 ---
-
-## 📌 Project Overview  
-
-Customer retention is one of the most critical challenges for subscription‑based businesses. Losing customers directly impacts revenue and long‑term growth.  
-
-This project dives deep into **customer churn patterns**, **behavioral trends**, and **revenue performance** to uncover insights that help businesses improve retention strategies.  
-
-The workflow follows a complete **end‑to‑end analytics pipeline** — from raw Excel data to polished Power BI dashboards:  
-
-🔹 Data Cleaning & Preprocessing  
-🔹 Feature Engineering  
-🔹 Database Management (MySQL)  
-🔹 SQL Analysis  
-🔹 Power BI Visualization  
 
 ## ❗ Problem Statement  
 
@@ -30,8 +16,21 @@ This project aims to solve that problem by:
 - Uncovering patterns and factors that influence churn behavior.  
 - Providing actionable insights through SQL analysis and interactive Power BI dashboards.  
 
+💡 **Goal:** Help businesses make data‑driven decisions to reduce churn, improve customer retention, and maximize lifetime value.  
 
-💡 **Objective:** Convert messy, unstructured customer data into a clean, analysis‑ready dataset and generate insights that drive smarter business decisions.  
+---
+
+## 📌 Project Overview  
+
+This project dives deep into **customer churn patterns**, **behavioral trends**, and **revenue performance** to uncover insights that help businesses improve retention strategies.  
+
+The workflow follows a complete **end‑to‑end analytics pipeline** — from raw Excel data to polished Power BI dashboards:  
+
+🔹 Data Cleaning & Preprocessing  
+🔹 Feature Engineering  
+🔹 Database Management (MySQL)  
+🔹 SQL Analysis  
+🔹 Power BI Visualization  
 
 ---
 
@@ -126,6 +125,7 @@ This analysis helps stakeholders:
 | SQL | Data analysis |
 | Power BI | Dashboard & visualization |
 
+---
 
 ---
 
@@ -144,5 +144,5 @@ This analysis helps stakeholders:
 
 This project showcases a **real‑world data‑analytics workflow**, integrating multiple tools to deliver actionable insights.  
 It demonstrates practical expertise in **Python, SQL, MySQL, Excel, and Power BI**, focusing on a real business challenge — **understanding and reducing customer churn**.  
-
+ 
 
