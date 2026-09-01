@@ -113,22 +113,6 @@ This analysis helps stakeholders:
 | SQL | Data analysis |
 | Power BI | Dashboard & visualization |
 
----
-
-Customer‑Churn‑Analysis/
-│
-├── 📂 Dataset/
-│   └── Churn_Unclean_Project.xlsx # Raw Excel dataset
-│
-├── 🐍 Python/
-│   └── Data_Cleaning.ipynb # Python notebook for data cleaning & preprocessing
-│
-├── 💾 SQL/
-│   └── Churn_Analysis.sql # SQL queries for churn analysis
-│
-├── 📊 PowerBI/
-
----
 
 ## 🧠 Skills Demonstrated  
 
