@@ -98,6 +98,8 @@ Key queries performed:
 
 ## 📊 Power BI Dashboard  
 
+![image alt](https://github.com/shubhambisht184/Customer_Churn_Prediction/blob/d553b3823474515e070981ebeb1564c9d7f22f53/Churn_Analysis_Dashboard.png)
+
 An interactive dashboard visualizing:  
 - **KPI Cards:** Total Customers, Churn Rate, Revenue, Tenure  
 - **Charts:** Churn by Contract, Subscription, State, Payment Method  
